@@ -1,3 +1,3 @@
 # Rezepte
 
-https://fabian.buechler.io/rezepte/
+http://rezepte.buechler.io/
