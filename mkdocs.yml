@@ -1,0 +1,54 @@
+# Project
+site_name: "Rezepte"
+site_description: "Mein persönliches Kochbuch"
+site_author: "Fabian Büchler"
+site_url: "https://github.com/fabianbuechler/rezepte/"
+
+# Build
+docs_dir: 'rezepte'
+site_dir: 'site'
+use_directory_urls: true
+
+# Repository
+repo_name: "fabianbuechler/rezepte"
+repo_url: "https://github.com/fabianbuechler/rezepte"
+
+# Plugins
+plugins:
+  - search:
+      lang: ['de']
+
+# Theme Material
+theme:
+  name: 'material'
+  palette:
+      primary: 'light green'
+      accent: 'indigo'
+  feature:
+    tabs: true
+  logo:
+    icon: 'loyalty'
+  language: 'de'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
