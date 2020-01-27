@@ -24,8 +24,6 @@ theme:
   palette:
       primary: 'indigo'
       accent: 'light green'
-  feature:
-    tabs: true
   logo:
     icon: 'loyalty'
   language: 'de'
