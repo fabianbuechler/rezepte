@@ -22,8 +22,8 @@ plugins:
 theme:
   name: 'material'
   palette:
-      primary: 'light green'
-      accent: 'indigo'
+      primary: 'indigo'
+      accent: 'light green'
   feature:
     tabs: true
   logo:
