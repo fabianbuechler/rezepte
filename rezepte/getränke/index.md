@@ -1,3 +1,0 @@
-# Getränke
-
-[TOC]

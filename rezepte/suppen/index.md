@@ -1,3 +1,0 @@
-# Suppen
-
-[TOC]

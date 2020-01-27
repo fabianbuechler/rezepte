@@ -1,3 +1,0 @@
-# Hauptspeisen
-
-[TOC]

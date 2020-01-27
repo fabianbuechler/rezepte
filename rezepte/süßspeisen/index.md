@@ -1,3 +1,0 @@
-# Süßspeisen
-
-[TOC]
