@@ -6,6 +6,7 @@
 
 ## Hauptspeisen
 
+- [Erdäpfelgulasch](./hauptspeisen/erdäpfelgulasch.md)
 - [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
 - [Spinatnudeln mit Lachs](./hauptspeisen/spinatnudeln_mit_lachs.md)
 - [Spinatspätzle](./hauptspeisen/spinatspätzle.md)
