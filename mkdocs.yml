@@ -22,7 +22,7 @@ plugins:
 theme:
   name: 'material'
   palette:
-      primary: 'indigo'
+      primary: 'teal'
       accent: 'light green'
   logo:
     icon: 'loyalty'
