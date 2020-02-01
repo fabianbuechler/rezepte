@@ -7,6 +7,7 @@
 ## Hauptspeisen
 
 - [Erdäpfelgulasch](./hauptspeisen/erdäpfelgulasch.md)
+- [Käseknödel](./hauptspeisen/käseknödel.md)
 - [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
 - [Linsenrisotto](./hauptspeisen/linsenrisotto.md)
 - [Rahmpolenta](./hauptspeisen/rahmpolenta.md)
