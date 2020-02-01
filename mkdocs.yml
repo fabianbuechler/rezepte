@@ -22,10 +22,11 @@ plugins:
 theme:
   name: 'material'
   palette:
-      primary: 'teal'
+      primary: 'blue grey'
       accent: 'light green'
   logo:
     icon: 'loyalty'
+  favicon: 'favicon.png'
   language: 'de'
 
 # Extensions
