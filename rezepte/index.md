@@ -15,6 +15,7 @@
 - [Spinatnudeln mit Lachs](./hauptspeisen/spinatnudeln_mit_lachs.md)
 - [Spinatspätzle](./hauptspeisen/spinatspätzle.md)
 - [Tiroler Knödel](./hauptspeisen/tiroler_knödel.md)
+- [Tomaten-Zucchini Auflauf](./hauptspeisen/tomaten-zucchini_auflauf.md)
 - [Zucchinibraten](./hauptspeisen/zucchinibraten.md)
 
 ## Süßspeisen
