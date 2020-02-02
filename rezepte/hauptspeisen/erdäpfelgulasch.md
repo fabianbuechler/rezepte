@@ -7,7 +7,7 @@
 ## Zutaten
 
 | Menge | Einheit | Zutat                        |
-| -----:| ------- |:---------------------------- |
+| -----:|:------- |:---------------------------- |
 |   750 | g       | Erdäpfel                     |
 |     1 | Stk     | Zwiebel, groß                |
 |     1 | Stk     | Knoblauchzehe                |

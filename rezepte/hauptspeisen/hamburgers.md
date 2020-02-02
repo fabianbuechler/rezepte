@@ -2,14 +2,14 @@
 
 | Personen | Vorbereitung | Kochzeit |
 | --------:| ------------:| --------:|
-|        4 |       15 min |   25 min | 
+|        4 |       15 min |   25 min |
 
 ## Zutaten
 
 ### Faschierte Masse
 
 | Menge | Einheit | Zutat            |
-| -----:| ------- |:---------------- |
+| -----:|:------- |:---------------- |
 |    90 | g       | Zwiebel          |
 |    30 | g       | Butter           |
 |   600 | g       | Rindsfaschiertes |
@@ -29,10 +29,10 @@
 ### Sauce
 
 | Menge | Einheit | Zutat                               |
-| ----- | ------- | ----------------------------------- |
-| 1/2   | Tasse   | Rinds Bouillon                      |
-| 1/4   | Tasse   | Wermut, weiß (z. B. Martini bianco) |
-| 30    | g       | Butter                              |
+| -----:|:------- |:----------------------------------- |
+|   1/2 | Tasse   | Rinds Bouillon                      |
+|   1/4 | Tasse   | Wermut, weiß (z. B. Martini bianco) |
+|    30 | g       | Butter                              |
 
 
 ## Rezept

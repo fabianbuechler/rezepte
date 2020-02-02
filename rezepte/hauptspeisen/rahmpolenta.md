@@ -2,12 +2,12 @@
 
 | Personen | Vorbereitung | Kochzeit |
 | --------:| ------------:| --------:|
-|        4 |        5 min |    5 min | 
+|        4 |        5 min |    5 min |
 
 ## Zutaten
 
 | Menge | Einheit | Zutat         |
-| -----:| ------- |:------------- |
+| -----:|:------- |:------------- |
 |   0,3 | l       | Gemüsefond    |
 |   0,3 | l       | Milch         |
 |    10 | g       | Butter        |

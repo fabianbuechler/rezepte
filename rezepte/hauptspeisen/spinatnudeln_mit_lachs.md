@@ -7,7 +7,7 @@
 ## Zutaten
 
 | Menge | Einheit | Zutat             |
-| -----:| ------- |:----------------- |
+| -----:|:------- |:----------------- |
 |   500 | g       | Bandnudeln, grün  |
 |     1 | Stk     | Zwiebel           |
 |     1 | Stk     | Knoblauchzehe     |

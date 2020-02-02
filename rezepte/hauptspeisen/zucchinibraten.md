@@ -7,7 +7,7 @@
 ## Zutaten
 
 | Menge | Einheit | Zutat                       |
-| -----:| ------- |:--------------------------- |
+| -----:|:------- |:--------------------------- |
 |   300 | g       | Faschiertes                 |
 |   300 | g       | Zucchini                    |
 |     1 | Beutel  | Knorr Basis für Faschiertes |

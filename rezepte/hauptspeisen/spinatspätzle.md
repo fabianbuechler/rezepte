@@ -7,7 +7,7 @@
 ## Zutaten
 
 | Menge | Einheit | Zutat                          |
-| -----:| ------- |:------------------------------ |
+| -----:|:------- |:------------------------------ |
 |   250 | g       | Spätzle                        |
 |     1 | Stk     | Zwiebel, klein                 |
 |     1 | Stk     | Knoblauchzehe                  |

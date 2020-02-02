@@ -7,7 +7,7 @@
 ## Zutaten
 
 | Menge | Einheit | Zutat                       |
-| -----:| ------- |:--------------------------- |
+| -----:|:------- |:--------------------------- |
 |   150 | g       | Rote Linsen                 |
 | 1 1/2 | l       | Hühnerbrühe                 |
 | 1 1/2 | Stk     | Lorbeerblätter              |
