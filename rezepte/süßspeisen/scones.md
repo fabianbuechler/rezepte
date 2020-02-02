@@ -1,5 +1,9 @@
 # Scones
 
+| Personen | Vorbereitung | Kochzeit |
+| --------:| ------------:| --------:|
+|        4 |       15 min |   15 min | 
+
 ## Zutaten
 
 | Menge | Einheit | Zutaten     |

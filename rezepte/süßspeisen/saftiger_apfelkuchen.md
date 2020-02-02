@@ -1,5 +1,9 @@
 # Saftiger Apfelkuchen
 
+| Personen | Vorbereitung | Kochzeit |
+| --------:| ------------:| --------:|
+|        8 |       20 min |   40 min |
+
 ## Zutaten
 
 | Menge | Einheit | Zutaten       |
