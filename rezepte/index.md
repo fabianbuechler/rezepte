@@ -19,4 +19,6 @@
 
 ## Süßspeisen
 
+- [Saftiger Apfelkuchen](./süßspeisen/saftiger_apfelkuchen.md)
+
 ## Getränke
