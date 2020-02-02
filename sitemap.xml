@@ -51,12 +51,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/tomaten-zucchini_auflauf/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/zucchinibraten/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/saftiger_apfelkuchen/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/scones/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
