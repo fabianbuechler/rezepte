@@ -33,3 +33,5 @@
 - [Scones](./süßspeisen/scones.md)
 
 ## Getränke
+
+- [Hollersirup](./getränke/hollersirup.md)
