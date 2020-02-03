@@ -8,6 +8,7 @@
 
 - [Erdäpfelgulasch](./hauptspeisen/erdäpfelgulasch.md)
 - [Hamburgers](./hauptspeisen/hamburgers.md)
+- [Kartoffelpürree-Blätterteig Auflauf](./hauptspeisen/kartoffelpürree-blätterteig_auflauf.md)
 - [Käseknödel](./hauptspeisen/käseknödel.md)
 - [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
 - [Linsenrisotto](./hauptspeisen/linsenrisotto.md)
