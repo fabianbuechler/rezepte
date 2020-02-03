@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/erdäpfelgulasch/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/hamburgers/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/kartoffelpürree-blätterteig_auflauf/</loc>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/käseknödel/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/lachsrisotto/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/linsenrisotto/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/rahmpolenta/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/spinatnudeln_mit_lachs/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/spinatspätzle/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/tiroler_knödel/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/tomaten-zucchini_auflauf/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/hauptspeisen/zucchinibraten/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/basler_leckerli/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/eisenbahner/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/saftiger_apfelkuchen/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fabianbuechler/rezepte/süßspeisen/scones/</loc>
-     <lastmod>2020-02-02</lastmod>
+     <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
