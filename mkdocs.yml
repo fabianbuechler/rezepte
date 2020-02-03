@@ -29,6 +29,11 @@ theme:
   favicon: 'favicon.png'
   language: 'de'
 
+extra:
+  social:
+    - type: 'user'
+      link: 'https://fabian.buechler.io/'
+
 # Extensions
 markdown_extensions:
   - admonition
