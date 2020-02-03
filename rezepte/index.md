@@ -12,6 +12,7 @@
 - [Käseknödel](./hauptspeisen/käseknödel.md)
 - [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
 - [Linsenrisotto](./hauptspeisen/linsenrisotto.md)
+- [Osttiroler Schlipfkrapfen](./hauptspeisen/osttiroler_schlipfkrapfen.md)
 - [Paella](./hauptspeisen/paella.md)
 - [Rahmpolenta](./hauptspeisen/rahmpolenta.md)
 - [Spinatnudeln mit Lachs](./hauptspeisen/spinatnudeln_mit_lachs.md)
