@@ -11,6 +11,7 @@
 - [Hamburgers](./hauptspeisen/hamburgers.md)
 - [Kartoffelpürree-Blätterteig Auflauf](./hauptspeisen/kartoffelpürree-blätterteig_auflauf.md)
 - [Käseknödel](./hauptspeisen/käseknödel.md)
+- [Krautfleckerl](./hauptspeisen/krautfleckerl.md)
 - [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
 - [Linsenrisotto](./hauptspeisen/linsenrisotto.md)
 - [Osttiroler Schlipfkrapfen](./hauptspeisen/osttiroler_schlipfkrapfen.md)
