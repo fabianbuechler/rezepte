@@ -22,6 +22,5 @@
 
 2.  In Salzwasser ca. 20 min kochen.
 
-## Dazu passt
-
-Tomatensalat oder Gurkensalat.
+!!! tip "Dazu passt"
+    Tomatensalat oder Gurkensalat.

@@ -42,7 +42,6 @@
 
 7.  Weitere 15 min überbacken.
 
-## Tipp
-
-Die Reste eignen sich, vermischt mit Tomatenragout, hervorragend als
-Spaghettisauce.
+!!! tip "Tipp"
+    Die Reste eignen sich, vermischt mit Tomatenragout, hervorragend als
+    Spaghettisauce.
