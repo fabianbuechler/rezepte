@@ -2,7 +2,7 @@
 
 | Personen | Vorbereitung | Kochzeit |
 | --------:| ------------:| --------:|
-|        4 |          min |      min |
+|        4 |       15 min |   20 min |
 
 ## Zutaten
 
