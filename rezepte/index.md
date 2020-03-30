@@ -17,6 +17,7 @@
 - [Osttiroler Schlipfkrapfen](./hauptspeisen/osttiroler_schlipfkrapfen.md)
 - [Paella](./hauptspeisen/paella.md)
 - [Rahmpolenta](./hauptspeisen/rahmpolenta.md)
+- [Spinatknödel](./hauptspeisen/spinatknödel.md)
 - [Spinatnudeln mit Lachs](./hauptspeisen/spinatnudeln_mit_lachs.md)
 - [Spinatspätzle](./hauptspeisen/spinatspätzle.md)
 - [Steirisches Kürbisgulasch](./hauptspeisen/steirisches_kürbisgulasch.md)
