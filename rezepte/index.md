@@ -29,6 +29,7 @@
 
 - [Basler Leckerli](./süßspeisen/basler_leckerli.md)
 - [Eisenbahner](./süßspeisen/eisenbahner.md)
+- [Karamellisierter Kaiserschmarrn](./süßspeisen/karamellisierter_kaiserschmarrn.md)
 - [Kokosrouladen](./süßspeisen/kokosrouladen.md)
 - [Saftiger Apfelkuchen](./süßspeisen/saftiger_apfelkuchen.md)
 - [Scones](./süßspeisen/scones.md)
