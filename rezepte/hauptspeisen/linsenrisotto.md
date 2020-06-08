@@ -6,14 +6,21 @@
 
 ## Zutaten
 
+### Suppe zum Aufgießen
+
 | Menge | Einheit | Zutat                       |
 | -----:|:------- |:--------------------------- |
-|   150 | g       | Rote Linsen                 |
 | 1 1/2 | l       | Hühnerbrühe                 |
 | 1 1/2 | Stk     | Lorbeerblätter              |
 | 1 1/2 | TL      | Thymian, getrocknet         |
 |   3/4 | TL      | Kreuzkümmel, gemahlen       |
 |     1 | Stk     | Zitrone                     |
+
+### Risotto
+
+| Menge | Einheit | Zutat                       |
+| -----:|:------- |:--------------------------- |
+|   150 | g       | Rote Linsen                 |
 |     1 | Stk     | Zwiebel, groß               |
 |     6 | EL      | Olivenöl                    |
 | 1 1/2 | EL      | Butter                      |
