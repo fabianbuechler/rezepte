@@ -1,0 +1,21 @@
+# Hauptspeisen
+
+- [Couscous-Lamm](./couscous-lamm.md)
+- [Erdäpfelgulasch](./erdaepfelgulasch.md)
+- [Hamburgers](./hamburgers.md)
+- [Kartoffelpürree-Blätterteig Auflauf](./kartoffelpuerree-blaetterteig_auflauf.md)
+- [Käseknödel](./kaeseknoedel.md)
+- [Krautfleckerl](./krautfleckerl.md)
+- [Lachsrisotto](./lachsrisotto.md)
+- [Linsenrisotto](./linsenrisotto.md)
+- [Osttiroler Schlipfkrapfen](./osttiroler_schlipfkrapfen.md)
+- [Paella](./paella.md)
+- [Rahmpolenta](./rahmpolenta.md)
+- [Spinatknödel](./spinatknoedel.md)
+- [Spinatnudeln mit Lachs](./spinatnudeln_mit_lachs.md)
+- [Spinatspätzle](./spinatspaetzle.md)
+- [Steirisches Kürbisgulasch](./steirisches_kuerbisgulasch.md)
+- [Tiroler Knödel](./tiroler_knoedel.md)
+- [Tomaten-Zucchini Auflauf](./tomaten-zucchini_auflauf.md)
+- [Zucchinibraten](./zucchinibraten.md)
+

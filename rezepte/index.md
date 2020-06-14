@@ -1,39 +1,8 @@
 # Rezepte
 
-## Vorspeisen
+- [Vorspeisen](./vorspeisen/index.md)
+- [Suppen](./suppen/index.md)
+- [Hauptspeisen](./hauptspeisen/index.md)
+- [Süßspeisen](./suessspeisen/index.md)
+- [Getränke](./getraenke/index.md)
 
-## Suppen
-
-## Hauptspeisen
-
-- [Couscous-Lamm](./hauptspeisen/couscous-lamm.md)
-- [Erdäpfelgulasch](./hauptspeisen/erdäpfelgulasch.md)
-- [Hamburgers](./hauptspeisen/hamburgers.md)
-- [Kartoffelpürree-Blätterteig Auflauf](./hauptspeisen/kartoffelpürree-blätterteig_auflauf.md)
-- [Käseknödel](./hauptspeisen/käseknödel.md)
-- [Krautfleckerl](./hauptspeisen/krautfleckerl.md)
-- [Lachsrisotto](./hauptspeisen/lachsrisotto.md)
-- [Linsenrisotto](./hauptspeisen/linsenrisotto.md)
-- [Osttiroler Schlipfkrapfen](./hauptspeisen/osttiroler_schlipfkrapfen.md)
-- [Paella](./hauptspeisen/paella.md)
-- [Rahmpolenta](./hauptspeisen/rahmpolenta.md)
-- [Spinatknödel](./hauptspeisen/spinatknödel.md)
-- [Spinatnudeln mit Lachs](./hauptspeisen/spinatnudeln_mit_lachs.md)
-- [Spinatspätzle](./hauptspeisen/spinatspätzle.md)
-- [Steirisches Kürbisgulasch](./hauptspeisen/steirisches_kürbisgulasch.md)
-- [Tiroler Knödel](./hauptspeisen/tiroler_knödel.md)
-- [Tomaten-Zucchini Auflauf](./hauptspeisen/tomaten-zucchini_auflauf.md)
-- [Zucchinibraten](./hauptspeisen/zucchinibraten.md)
-
-## Süßspeisen
-
-- [Basler Leckerli](./süßspeisen/basler_leckerli.md)
-- [Eisenbahner](./süßspeisen/eisenbahner.md)
-- [Karamellisierter Kaiserschmarrn](./süßspeisen/karamellisierter_kaiserschmarrn.md)
-- [Kokosrouladen](./süßspeisen/kokosrouladen.md)
-- [Saftiger Apfelkuchen](./süßspeisen/saftiger_apfelkuchen.md)
-- [Scones](./süßspeisen/scones.md)
-
-## Getränke
-
-- [Hollersirup](./getränke/hollersirup.md)
