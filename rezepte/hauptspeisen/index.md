@@ -2,6 +2,7 @@
 
 - [Couscous-Lamm](./couscous-lamm.md)
 - [Erdäpfelgulasch](./erdaepfelgulasch.md)
+- [Gemüse-Couscous](./gemuese-couscous.md)
 - [Hamburgers](./hamburgers.md)
 - [Kartoffelpürree-Blätterteig Auflauf](./kartoffelpuerree-blaetterteig_auflauf.md)
 - [Käseknödel](./kaeseknoedel.md)
